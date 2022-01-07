@@ -1,0 +1,1 @@
+{"oil": [], "ore": [], "uranium": [], "diamonds": [], "liquid oxygen": [], "helium-3": [], "antirad": [], "spacerockets": [], "tanks": [], "aircrafts": [], "missiles": [], "bombers": [], "battleships": [], "moon tanks": [], "space stations": []}
